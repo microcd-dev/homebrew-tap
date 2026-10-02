@@ -1,7 +1,6 @@
 class Microcd < Formula
   desc "Lightweight continuous deployment agent for edge devices"
   homepage "https://microcd.dev"
-  version "0.26.0"
   license "Apache-2.0"
 
   depends_on :macos
