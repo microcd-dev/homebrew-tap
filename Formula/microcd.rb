@@ -7,14 +7,14 @@ class Microcd < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/microcd-dev/homebrew-tap/releases/download/v0.39.2/microcd-darwin-aarch64.tar.gz"
-      mirror "https://packages.microcd.dev/homebrew/v0.39.2/microcd-darwin-aarch64.tar.gz"
-      sha256 "ae29f413cb70c7c26902877d60a090e5678bf2f2c05361bb35c470807de9e642"
+      url "https://github.com/microcd-dev/homebrew-tap/releases/download/v0.40.0/microcd-darwin-aarch64.tar.gz"
+      mirror "https://packages.microcd.dev/homebrew/v0.40.0/microcd-darwin-aarch64.tar.gz"
+      sha256 "3aa2e165fb42baeaee30e884051d54c5216b08f18af6b05f0848dd1d87ce917a"
     end
     on_intel do
-      url "https://github.com/microcd-dev/homebrew-tap/releases/download/v0.39.2/microcd-darwin-x86_64.tar.gz"
-      mirror "https://packages.microcd.dev/homebrew/v0.39.2/microcd-darwin-x86_64.tar.gz"
-      sha256 "f04d3580709026e8e2e54461f22a6b222fa4461bef6871cab196988083a6ace5"
+      url "https://github.com/microcd-dev/homebrew-tap/releases/download/v0.40.0/microcd-darwin-x86_64.tar.gz"
+      mirror "https://packages.microcd.dev/homebrew/v0.40.0/microcd-darwin-x86_64.tar.gz"
+      sha256 "a7b31e35e9a8fafd679bfcb04c9c9dfe5c27b397ea84c97c5855907e2f621a57"
     end
   end
 
